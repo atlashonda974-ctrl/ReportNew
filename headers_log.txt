@@ -1,0 +1,9 @@
+Array
+(
+    [0] => HTTP/1.1 200 OK
+    [1] => Date: Fri, 02 May 2025 10:32:14 GMT
+    [2] => Server: Apache/2.4.57 (Win64) mod_fcgid/2.3.10-dev PHP/7.4.0RC3
+    [3] => X-Powered-By: PHP/7.4.0RC3
+    [4] => Connection: close
+    [5] => Content-Type: text/html; charset=UTF-8
+)
